@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>GITHUB repository</h1>
-      
+  
     </div>
   );
 }
